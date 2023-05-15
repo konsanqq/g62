@@ -1,0 +1,2 @@
+# g62
+autoopen 
